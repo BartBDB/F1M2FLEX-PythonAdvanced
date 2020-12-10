@@ -35,5 +35,5 @@ InheritanceX.Walk
 InheritanceX.Jump
 
 print(characterA.speed)
-print(marioX.speed)
-print(marioX.lives)
+print(InheritanceX.speed)
+print(InheritanceX.lives)
